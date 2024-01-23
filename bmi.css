@@ -1,0 +1,16 @@
+body{
+    background: url('bmi.jpg');
+    background-size: cover;
+}
+
+.output-section{
+    font-size: large;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.output{
+    color: blue;
+    background-color: violet;
+    border: 2px solid gray;
+}
